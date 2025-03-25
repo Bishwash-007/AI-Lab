@@ -12,7 +12,7 @@ Welcome to the AI Lab project! This repository contains various React projects f
 
 ## Introduction
 
-The AI Lab project is a collection of React applications that demonstrate the use of artificial intelligence in web development. Each project showcases different AI techniques and their practical applications.
+The AI Lab project is a collection of React applications that demonstrate the use of artificial intelligence. Each project showcases different AI techniques and their practical implementation.
 
 ## Installation
 
