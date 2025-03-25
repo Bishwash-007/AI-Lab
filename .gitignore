@@ -1,0 +1,13 @@
+#modules
+venv/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.bak
+*.swp
+.DS_Store
+ML/CNN/data/
