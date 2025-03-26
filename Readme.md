@@ -1,6 +1,6 @@
 # AI Lab
 
-Welcome to the AI Lab project! This repository contains various React projects focused on artificial intelligence applications.
+Welcome to the AI Lab project! This repository contains various projects focused on artificial intelligence applications.
 
 ## Table of Contents
 
