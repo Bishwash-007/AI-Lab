@@ -17,7 +17,7 @@ To get started with the AI Lab project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Bishwash-007/ai-lab.git
+    git clone https://github.com/Bishwash-007/AI_Labs.git
     ```
 2. Navigate to the project directory:
     ```bash
