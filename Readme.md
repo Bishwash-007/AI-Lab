@@ -1,6 +1,6 @@
 # AI Lab
 
-Welcome to the AI Lab project! This repository contains various projects focused on artificial intelligence applications.
+Welcome to the AI Lab project! This repository contains various Machine Learning and Deep Learning Projects
 
 ## Table of Contents
 
@@ -10,9 +10,6 @@ Welcome to the AI Lab project! This repository contains various projects focused
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
-
-The AI Lab project is a collection of React applications that demonstrate the use of artificial intelligence. Each project showcases different AI techniques and their practical implementation.
 
 ## Installation
 
