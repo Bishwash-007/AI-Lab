@@ -26,7 +26,7 @@ To get started with the AI Lab project, follow these steps:
 3. Install the dependencies:
     ```bash
     python3.12 -m venv venv
-    source venv/bin.activate
+    source venv/bin/activate
     pip install -r 'requirements.txt'
     ```
 
